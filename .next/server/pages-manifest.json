@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/bigcommerce/get_recently_viewed_items": "pages/api/bigcommerce/get_recently_viewed_items.js",
+  "/api/bigcommerce/get_brands": "pages/api/bigcommerce/get_brands.js",
+  "/api/bigcommerce/get_products": "pages/api/bigcommerce/get_products.js",
+  "/": "pages/index.js"
+}
